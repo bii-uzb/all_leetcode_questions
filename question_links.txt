@@ -18,8 +18,7 @@ https://leetcode.com/book/
 https://leetcode.com/story/
 https://leetcode.com/accounts/signup
 https://leetcode.com/accounts/login/
-2https://leetcode.com/story
-
+https://leetcode.com/story
 https://leetcode.com/problemset/draft/
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 https://leetcode.com/problems/coin-change-2/
